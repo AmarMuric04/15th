@@ -1,0 +1,22 @@
+[
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 8
+      }
+    ],
+    "customer": {
+      "name": "Amar Muric",
+      "email": "muricamar2004@gmail.com",
+      "street": "Kragujevacka",
+      "postal-code": "36300",
+      "city": "Novi Pazar"
+    },
+    "id": "136.86931795577183"
+  }
+]
